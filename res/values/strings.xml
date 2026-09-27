@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dice Roller</string>
+    <string name="app_title">Dice Roller</string>
+    <string name="app_subtitle">Kocok dadu dan dapatkan angka secara acak</string>
+    <string name="roll_button">Kocok Dadu</string>
+    <string name="result_initial">Hasil: 1</string>
+    <string name="history_title">Riwayat Kocokan</string>
+    <string name="history_empty">Belum ada riwayat kocokan.</string>
+    <string name="dice_description">Gambar dadu</string>
+</resources>
